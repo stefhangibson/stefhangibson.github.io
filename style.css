@@ -30,12 +30,8 @@ h1{
   font-family: 'Montserrat', sans-serif;
   background-color:rgba(3, 3, 3, 0.5) ;
   color: black;
-  position:absolute;
   transition: .5s ease;
-  top: 83%;
-  left: 45%;
-  
-}
+  margin: 0px 0px -1150px 500px;}
 
 .btn-xl {
   padding: 1rem 2rem; 
