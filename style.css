@@ -21,8 +21,14 @@ h1{
 
 }
 
-
-
+.clear{
+  height: 90vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: -75px;
+}
+  
 .btn-dark {
   font-size: 75px
   text-transform: uppercase;
@@ -31,7 +37,7 @@ h1{
   background-color:rgba(3, 3, 3, 0.5) ;
   color: black;
   transition: .5s ease;
-  margin: 0px 0px -1150px 500px;}
+}
 
 .btn-xl {
   padding: 1rem 2rem; 
